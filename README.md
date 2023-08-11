@@ -11,8 +11,8 @@
 ### Level 0
 | 순번 | 문제 이름                   | 난이도      | 정답률   | 알고리즘 분류    | 풀이 날짜 | 깃허브 코드 | 블로그 링크 | 
 | :--: | :-------------: | :---------------: | :----------------: | :----------------: | :---------------: | :----------: | :-------: |
-| 120875 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | Lv.1 | 60% |  | 23.08.10 |  | [✍🏻](https://mini-min-dev.tistory.com/177) | 
-| 120956 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | Lv.1 | 36% |  | 23.08.10 |  | [✍🏻](https://mini-min-dev.tistory.com/178) | 
+| 120875 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | Lv.1 | 60% |  | 23.08.10 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120875.%20%ED%8F%89%ED%96%89.py) | [✍🏻](https://mini-min-dev.tistory.com/177) | 
+| 120956 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | Lv.1 | 36% |  | 23.08.10 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120956.%20%EC%98%B9%EC%95%8C%EC%9D%B4%20(1).py) | [✍🏻](https://mini-min-dev.tistory.com/178) | 
 
 ### Level 1
 | 순번 | 문제 이름                   | 난이도      | 정답률   | 알고리즘 분류    | 풀이 날짜 | 깃허브 코드 | 블로그 링크 | 
