@@ -17,6 +17,7 @@
 ### Level 1
 | 순번 | 문제 이름                   | 난이도    | 알고리즘 분류    | 풀이 날짜 | 깃허브 코드 | 블로그 링크 | 
 | :--: | :-------------: | :---------------: | :----------------: | :---------------: | :----------: | :-------: |
+| 1845 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | Lv.1 | 해시 | 23.08.13 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/1845.%20%ED%8F%B0%EC%BC%93%EB%AA%AC.py)
 | 42889 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | Lv.1 |  |  |  |  | 
 | 92334 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | Lv.1 |  | 23.08.09 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/92334.%20%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.py) | [✍🏻](https://mini-min-dev.tistory.com/189) | 
 | 133499 | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | Lv.1 |  |  |  |  | 
