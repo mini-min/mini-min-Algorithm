@@ -27,4 +27,4 @@
 ### Level 2
 | 순번 | 문제 이름                   | 난이도    | 알고리즘 분류    | 풀이 날짜 | 깃허브 코드 | 블로그 링크 | 
 | :--: | :-------------: | :---------------: | :----------------: | :---------------: | :----------: | :-------: |
-| 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 |  | 23.08.14 | | |
+| 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 |  | 23.08.14 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/68645.%20%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py) | [✍🏻](https://mini-min-dev.tistory.com/194) |
