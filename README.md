@@ -40,6 +40,7 @@
 </details>
 
 <br>
+<br>
 
 ## 프로그래머스 문제 모음
 
@@ -54,6 +55,8 @@
 | 120956 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | Lv.0 | | 23.08.10 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120956.%20%EC%98%B9%EC%95%8C%EC%9D%B4%20(1).py) | [✍🏻](https://mini-min-dev.tistory.com/178) | 
 
 </details>
+
+<br>
 
 ### 1️⃣ Level 1
 
@@ -71,6 +74,8 @@
 | 178871 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | Lv.1 |  | 23.08.09 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/178871.%20%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC.py) | [✍🏻](https://mini-min-dev.tistory.com/191) | 
 
 </details>
+
+<br>
 
 ### 2️⃣ Level 2
 
