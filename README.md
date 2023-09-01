@@ -18,7 +18,9 @@
    
 | 순번 | 문제 이름                   | 난이도, 분류  | 풀이 날짜 | 깃허브 코드 | 블로그 링크 | 
 | :--: | :-------------: | :--------------: | :---------------: | :----------: | :-------: |
+| 120866 | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | Lv.0 | 23.09.01 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120866.%20%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80.py) | [✍🏻](https://mini-min-dev.tistory.com/176)
 | 120875 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | Lv.0 | 23.08.10 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120875.%20%ED%8F%89%ED%96%89.py) | [✍🏻](https://mini-min-dev.tistory.com/177) | 
+| 120876 | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | Lv.0 | 23.09.01 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120876.%20%EA%B2%B9%EC%B9%98%EB%8A%94%20%EC%84%A0%EB%B6%84%EC%9D%98%20%EA%B8%B8%EC%9D%B4.py) | [✍🏻](https://mini-min-dev.tistory.com/177)
 | 120956 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | Lv.0 | 23.08.10 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120956.%20%EC%98%B9%EC%95%8C%EC%9D%B4%20(1).py) | [✍🏻](https://mini-min-dev.tistory.com/178) | 
 
 <br>
