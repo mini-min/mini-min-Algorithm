@@ -53,6 +53,7 @@
 | :--: | :-------------: | :----------------: | :---------------: | :----------: | :-------: |
 | 12911 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | Lv.2 | 23.09.05 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12911.%20%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.py) |  |
 | 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | Lv.2 | 23.09.03 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12924.%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py) |  |
+| 12945 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | Lv.2 | 23.09.07 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12945.%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.py) |  |
 | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | 23.08.14 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/68645.%20%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py) | [✍🏻](https://mini-min-dev.tistory.com/194) |
 | 70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Lv.2, 재귀 | 23.08.27 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/70129.%20%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) |  |
 
