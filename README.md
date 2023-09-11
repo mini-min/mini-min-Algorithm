@@ -1,11 +1,12 @@
 # 🧑🏻‍💻 코딩하는 체대생의 알고리즘 공부 기록장
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmini-min%2FStudy_Algo&count_bg=%234CC6A2&title_bg=%23B43E3E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mini-min/Study_Algo)   
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">   
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white)
+<img     src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 
 2023년 8월 13일 전역 이후부터 본격적으로 알고리즘 공부를 시작했습니다.  
 
-하루에 한 문제씩 풀이를 올리는 것이 목표입니다. 문제는 백준과 프로그래머스에서 가져와 풀고 있습니다.  
+하루에 한 문제씩 백준 또는 프로그래머스에서 알고리즘 문제를 푸는 것이 목표입니다.  
 현재는 주로 Python을 이용해서 문제를 풀고 있으며, 추후에 Swift를 이용한 문제풀이도 함께 올리게 될 예정입니다.   
 
 [알고리즘 공부 계획이 궁금하다면?🤔](https://mini-min-dev.tistory.com/149)
@@ -56,6 +57,8 @@
 | 12911 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | Lv.2 | 23.09.05 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12911.%20%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.py) |  |
 | 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | Lv.2 | 23.09.03 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12924.%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py) |  |
 | 12945 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | Lv.2 | 23.09.07 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12945.%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.py) |  |
+| 42577 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | Lv.2, 해시 | 23.09.11 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/42577.%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py) |  |
+| 42578 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | Lv.2, 해시 | 23.09.11 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/42578.%20%EC%9D%98%EC%83%81.py) |  |
 | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | 23.08.14 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/68645.%20%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py) | [✍🏻](https://mini-min-dev.tistory.com/194) |
 | 70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Lv.2, 재귀 | 23.08.27 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/70129.%20%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) |  |
 
