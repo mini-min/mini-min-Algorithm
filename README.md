@@ -54,6 +54,7 @@
 
 | 순번 | 문제 이름                   | 난이도, 분류 | 풀이 날짜 | 깃허브 코드 | 블로그 풀이 링크 | 
 | :--: | :-------------: | :----------------: | :---------------: | :----------: | :-------: |
+| 12909 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | Lv.2, 스택/큐 | 23.09.15 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12909.%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.py) |  | 
 | 12911 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | Lv.2 | 23.09.05 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12911.%20%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.py) |  |
 | 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | Lv.2 | 23.09.03 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12924.%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py) |  |
 | 12945 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | Lv.2 | 23.09.07 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/12945.%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.py) |  |
