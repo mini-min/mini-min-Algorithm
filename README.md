@@ -78,6 +78,7 @@
 | 순번 | 문제 이름          | 난이도, 분류 | 풀이 날짜 | 깃허브 코드 | 블로그 풀이 링크 | 
 | :--: | :-------------: | :----------------: | :---------------: | :----------: | :-------: |
 | 42579 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv.3, 해시 | 23.09.13 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.3/42579.%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) | [✍🏻](https://mini-min-dev.tistory.com/201) |
+| 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | Lv.3, 그래프 | 23.09.23 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.3/49189.%20%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.py) |  |
 
 <br>
 <br>
