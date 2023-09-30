@@ -1,30 +1,19 @@
-# 🧑🏻‍💻 코딩하는 체대생의 알고리즘 공부 기록장
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmini-min%2FStudy_Algo&count_bg=%234CC6A2&title_bg=%23B43E3E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mini-min/Study_Algo)   
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white)
 <img     src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 
-2023년 8월 13일 전역 이후부터 본격적으로 알고리즘 공부를 시작했습니다.  
+[나의 알고리즘 공부 계획 살펴보러 가기 - 코딩하는 체대생 Tech Blog](https://mini-min-dev.tistory.com/149)
 
-하루에 한 문제씩 백준 또는 프로그래머스에서 알고리즘 문제를 푸는 것이 목표입니다.  
-현재는 주로 Python을 이용해서 문제를 풀고 있으며, 추후에 Swift를 이용한 문제풀이도 함께 올리게 될 예정입니다.   
-
-[알고리즘 공부 계획이 궁금하다면?🤔](https://mini-min-dev.tistory.com/149)
 
 <br>
 
 ## 프로그래머스 문제 모음
 
-### 0️⃣ Level 0
-   
-| 순번 | 문제 이름                   | 난이도, 분류  | 풀이 날짜 | 깃허브 코드 | 블로그 풀이 링크 | 
-| :--: | :-------------: | :--------------: | :---------------: | :----------: | :-------: |
-| 120866 | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | Lv.0 | 23.09.01 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120866.%20%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80.py) | [✍🏻](https://mini-min-dev.tistory.com/176)
-| 120875 | [평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | Lv.0 | 23.08.10 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120875.%20%ED%8F%89%ED%96%89.py) | [✍🏻](https://mini-min-dev.tistory.com/177) | 
-| 120876 | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | Lv.0 | 23.09.01 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120876.%20%EA%B2%B9%EC%B9%98%EB%8A%94%20%EC%84%A0%EB%B6%84%EC%9D%98%20%EA%B8%B8%EC%9D%B4.py) | [✍🏻](https://mini-min-dev.tistory.com/177)
-| 120956 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | Lv.0 | 23.08.10 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.0/120956.%20%EC%98%B9%EC%95%8C%EC%9D%B4%20(1).py) | [✍🏻](https://mini-min-dev.tistory.com/178) | 
+### 1️⃣ Level 0 - 코딩테스트 입문
 
-<br>
+[Day 1~25 날짜별 풀이 코드로 살펴보러 가기](https://github.com/mini-min/Study_Algo/tree/main/Programmers/Lv.0%20-%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8)
+
 
 ### 1️⃣ Level 1
    
@@ -55,7 +44,6 @@
 | 147355 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | Lv.1 | 23.09.19 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/147355.%20%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.py) |  |
 | 178871 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | Lv.1 | 23.08.09 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/178871.%20%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC.py) | [✍🏻](https://mini-min-dev.tistory.com/191) | 
 
-<br>
 
 ### 2️⃣ Level 2
 
@@ -75,7 +63,6 @@
 | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | 23.08.14 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/68645.%20%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py) | [✍🏻](https://mini-min-dev.tistory.com/194) |
 | 70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Lv.2, 재귀 | 23.08.27 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/70129.%20%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) |  |
 
-<br>
 
 ### 2️⃣ Level 3
 
@@ -83,22 +70,3 @@
 | :--: | :-------------: | :----------------: | :---------------: | :----------: | :-------: |
 | 42579 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Lv.3, 해시 | 23.09.13 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.3/42579.%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) | [✍🏻](https://mini-min-dev.tistory.com/201) |
 | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | Lv.3, 그래프 | 23.09.23 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.3/49189.%20%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.py) | [✍🏻](https://mini-min-dev.tistory.com/207) |
-
-<br>
-<br>
-
-## 백준(BOJ) 문제 모음
-
-### 🥉 Bronze Level
-
-| 순번 | 문제 이름                   | 난이도    | 알고리즘 분류    | 풀이 날짜 | 깃허브 코드 | 블로그 링크 | 
-| :--: | :-------------: | :---------------: | :----------------: | :---------------: | :----------: | :-------: |
-| 25501 | [재귀의 귀재](https://www.acmicpc.net/problem/25501) | Bronze 2 | 구현, 재귀 | 23.08.15 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/BOJ/Bronze/25501.%20%EC%9E%AC%EA%B7%80%EC%9D%98%20%EA%B7%80%EC%9E%AC.py) |  | 
-
-<br>
-
-### 🥈 Silver Level
-
-| 순번 | 문제 이름                   | 난이도    | 알고리즘 분류    | 풀이 날짜 | 깃허브 코드 | 블로그 링크 | 
-| :--: | :-------------: | :---------------: | :----------------: | :---------------: | :----------: | :-------: |
-| 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | Silver 4 | 자료 구조, 정렬, 이분 탐색 | 23.08.25 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/BOJ/Silver/1920.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) |  |
