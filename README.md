@@ -1,4 +1,4 @@
-# Study_Algo
+## 알고리즘 공부 기록장 (Study Algorithm)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmini-min%2FStudy_Algo&count_bg=%234CC6A2&title_bg=%23B43E3E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mini-min/Study_Algo)   
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white)
@@ -6,6 +6,47 @@
 
 [나의 알고리즘 공부 계획 살펴보러 가기 - 코딩하는 체대생 Tech Blog](https://mini-min-dev.tistory.com/149)
 
+<br>
+
+## 백준 문제 모음
+
+### 🥉 Bronze Level
+   
+| 순번 | 문제 이름                   | 난이도, 분류  | 풀이 날짜 | 깃허브 코드 | 블로그 풀이 링크 | 
+| :--: | :-------------: | :---------------: | :------------------: | :----------: | :-------: |
+| 25501 | [재귀의 귀재](https://www.acmicpc.net/problem/25501) | Bronze 2, 구현/문자열/재귀 | 23.10.02 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/BOJ/Bronze/25501.%20%EC%9E%AC%EA%B7%80%EC%9D%98%20%EA%B7%80%EC%9E%AC.py) |  |
+
+
+### 🥈 Silver Level
+   
+| 순번 | 문제 이름                   | 난이도, 분류  | 풀이 날짜 | 깃허브 코드 | 블로그 풀이 링크 | 
+| :--: | :-------------: | :---------------: | :------------------: | :----------: | :-------: |
+| 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | Silver 4, 자료구조/정렬 | 23.10.02 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/BOJ/Silver/1920.%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.py) |
+
+<br>
+
+## LeetCode 문제 모음
+
+### 🌱 Easy
+
+| 순번 | 문제 이름                   | 난이도, 분류  | 풀이 날짜 | 깃허브 코드 | 블로그 풀이 링크 | 
+| :--: | :-------------: | :---------------: | :------------------: | :----------: | :-------: |
+| 125 | [Valid Palindrome (유효한 팰린드롬)](https://leetcode.com/problems/valid-palindrome/) | Easy, 문자열 조작 | 22.05.21 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/LeetCode/Easy/125.%20Valid%20Palindrome.py) | [✍🏻](https://mini-min-dev.tistory.com/125) |
+| 344 | [Reverse String (문자열 뒤집기)](https://leetcode.com/problems/reverse-string/) | Easy, 문자열 조작 | 22.05.21 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/LeetCode/Easy/344.%20Reverse%20String.py) | [✍🏻](https://mini-min-dev.tistory.com/126) |
+| 819 | [Most Common Word (가장 흔한 단어)](https://leetcode.com/problems/most-common-word/) | Easy, 문자열 조작 | 22.05.22 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/LeetCode/Easy/819.%20Most%20Common%20Word.py) | [✍🏻](https://mini-min-dev.tistory.com/128) |
+
+### 🤔 Medium
+
+| 순번 | 문제 이름                   | 난이도, 분류  | 풀이 날짜 | 깃허브 코드 | 블로그 풀이 링크 | 
+| :--: | :-------------: | :---------------: | :------------------: | :----------: | :-------: |
+| 49 | [Group Anagrams (그룹 애너그램)](https://leetcode.com/problems/group-anagrams/) | Medium, 문자열 조작 | 22.05.25 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/LeetCode/Medium/49.%20Group%20Anagrams.py) | [✍🏻](https://mini-min-dev.tistory.com/129) |
+| 937 | [Reorder Data in Log Files (로그 파일 재정렬)](https://leetcode.com/problems/reorder-data-in-log-files/) | Medium, 문자열 조작 | 22.05.22 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/LeetCode/Medium/937.%20Reorder%20Data%20in%20Log%20Files.py) | [✍🏻](https://mini-min-dev.tistory.com/127) |
+
+### 🔥 Hard
+
+| 순번 | 문제 이름                   | 난이도, 분류  | 풀이 날짜 | 깃허브 코드 | 블로그 풀이 링크 | 
+| :--: | :-------------: | :---------------: | :------------------: | :----------: | :-------: |
+| 42 | [Trapping Rain Water (빗물 트래핑)](https://leetcode.com/problems/trapping-rain-water/) | Hard, 배열 | 22.06.24 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/LeetCode/Hard/42.%20Trapping%20Rain%20Water.py) | [✍🏻](https://mini-min-dev.tistory.com/132) |
 
 <br>
 
@@ -14,7 +55,6 @@
 ### 1️⃣ Level 0 - 코딩테스트 입문
 
 [Day 1~25 날짜별 풀이 코드로 살펴보러 가기](https://github.com/mini-min/Study_Algo/tree/main/Programmers/Lv.0%20-%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%9E%85%EB%AC%B8)
-
 
 ### 1️⃣ Level 1
    
@@ -66,7 +106,7 @@
 | 70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Lv.2, 재귀 | 23.08.27 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/70129.%20%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) |  |
 
 
-### 2️⃣ Level 3
+### 3️⃣ Level 3
 
 | 순번 | 문제 이름          | 난이도, 분류 | 풀이 날짜 | 깃허브 코드 | 블로그 풀이 링크 | 
 | :--: | :-------------: | :----------------: | :---------------: | :----------: | :-------: |
