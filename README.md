@@ -104,6 +104,7 @@
 | 42626 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | Lv.2, 힙 (Heap) | 23.09.16 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/42626.%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C.py) | [✍🏻](https://mini-min-dev.tistory.com/202) |
 | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 | 23.08.14 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/68645.%20%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.py) | [✍🏻](https://mini-min-dev.tistory.com/194) |
 | 70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | Lv.2, 재귀 | 23.08.27 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/70129.%20%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) |  |
+| 131701 | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | Lv.2 | 23.10.03 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.2/131701.%20%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.py) |  |
 
 
 ### 3️⃣ Level 3
