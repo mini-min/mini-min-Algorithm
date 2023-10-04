@@ -84,6 +84,7 @@
 | 140108 | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | Lv.1 | 23.08.09 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/140108.%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.py) | [✍🏻](https://mini-min-dev.tistory.com/190) | 
 | 142086 | [가장 가까운 같은 글자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | Lv.1 | 23.08.28 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/142086.%20%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.py) |  | 
 | 147355 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | Lv.1 | 23.09.19 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/147355.%20%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.py) |  |
+| 176963 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | Lv.1 | 23.10.04 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/176963.%20%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.py) |  |
 | 178871 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) | Lv.1 | 23.08.09 | [🧑🏻‍💻](https://github.com/mini-min/Study_Algo/blob/main/Programmers/Lv.1/178871.%20%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC.py) | [✍🏻](https://mini-min-dev.tistory.com/191) | 
 
 
