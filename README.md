@@ -12,11 +12,11 @@ Swift5 기본 문법을 정리한 레포입니다.
 
 | 순번 | 내용 | 키워드
 | :-- | :-- | :-- | 
-| 0 | Swift 언어를 배우기 전에  | |
-| 1 | 기본 자료형 (Data Type, Collection Type) | |
-| 2 | 기본 연산자 (Operator)와 표현식 (Expression) | |
-| 3 | 반복 제어 흐름 (Looping Control Flow) | |
-| 4 | 조건부 제어 흐름 (Conditional Control Flow) | |
+| 0 | [Swift 언어를 배우기 전에](https://github.com/mini-min/Swift-Grammar-Summary/blob/main/0.%20Swift%20%EC%96%B8%EC%96%B4%EB%A5%BC%20%EB%B0%B0%EC%9A%B0%EA%B8%B0%20%EC%A0%84%EC%97%90.md) | `Swift 특징` `네이밍 규칙` |
+| 1 | 기본 자료형 (Data Type, Collection Type) | `상수와 변수` `데이터타입` `컬렉션타입` `타입 추론` |
+| 2 | 기본 연산자 (Operator)와 표현식 (Expression) | `할당 연산자` `삼항 연산자` `nil 병합 연산자` |
+| 3 | 반복 제어 흐름 (Looping Control Flow) | `for문` `while문` `repeat-while문` |
+| 4 | 조건부 제어 흐름 (Conditional Control Flow) | `if문` `switch문` `guard` |
 | 5 | 함수 (Functions) | |
 | 6 | 클로저 (Closure) | |
 | 7 | 열거형 (Enumerations) | |
@@ -29,7 +29,8 @@ Swift5 기본 문법을 정리한 레포입니다.
 | 14 | 제네릭 (Generics) | |
 | 15 | 에러 처리 (Error Handling) | |
 | 16 | 동시성 (Concurrency) | |
-| 17 | ARC (Automatic Reference Counting) | |
-| 18 | 접근 제어 (Access Control) | |
-| 19 | 고차 함수 (Higher-order function) | |
-| 20 | 패턴 (Pattern) | |
+| 17 | 타입 캐스팅 (Type Casting) | `is` `as` `as?` `as!` | 
+| 18 | ARC (Automatic Reference Counting) | |
+| 19 | 접근 제어 (Access Control) | |
+| 20 | 고차 함수 (Higher-order function) | |
+| 21 | 패턴 (Pattern) | |
